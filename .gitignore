@@ -1,0 +1,12 @@
+.cache/
+recordings/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+venv/
+*.mp4
+*.pt
+*.ts
+*.rar
